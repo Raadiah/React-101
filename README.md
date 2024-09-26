@@ -4,6 +4,8 @@ This is my journey in learning React step by step. We will document each of our 
 
 # Setting up React
 
+ - Step 1: Install [Node.js](https://nodejs.org/en)
+
 ### Why Vite?
 
 We are going to explore the answer.
